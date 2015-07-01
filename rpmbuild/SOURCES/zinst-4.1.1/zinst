@@ -17,7 +17,7 @@ ZinstDIRs="$ZinstBaseRoot/zinst"
 ZinstSourceDir="$ZinstBaseRoot/vault/Source"
 #
 ### ------ Config Area -----
-Sara_Host="sara.gsenext.com"
+ 
 
 hosts_redefine(){
 sudo cat /etc/hosts > /tmp/hosts.tmp
