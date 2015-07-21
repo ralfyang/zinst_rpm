@@ -1,12 +1,12 @@
 Name: zinst
-Version:	4.1.2
+Version:	4.1.3
 Release:	1%{?dist}
 Summary:	Package oriented management system
 
 Group:		RalfYang
 License:	LGPL v2.0
 URL:		http://ralfyang.com
-Source0:	zinst-4.1.2.tgz
+Source0:	zinst-4.1.3.tgz
 BuildRoot:	%(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 
 BuildRequires:	/bin/bash
